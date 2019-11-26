@@ -14,8 +14,8 @@ const (
 	"token_file": "./token",
 	"token_auth":{
 		"grant_type": "client_credentials",
-		"client_id": "xzHQ3fpTEGsxFjHEONzvPms3",
-		"client_secret":"deQSlIGjirx5YOHAvNa66XVfH0pza6bB"
+		"client_id": "",
+		"client_secret":""
 	}
 }`
 	defaultDBConfig = `{
